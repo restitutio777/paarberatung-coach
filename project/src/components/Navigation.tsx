@@ -31,8 +31,8 @@ export default function Navigation() {
     >
       <div className="max-w-content mx-auto px-6 lg:px-10 flex items-center justify-between h-20">
         <a href="#" className="flex flex-col leading-tight">
-          <span className="font-serif text-xl font-bold tracking-tight" style={{ color: '#1a1a1a' }}>
-            Kathrin Sommer
+          <span className="font-serif text-2xl tracking-tight" style={{ fontWeight: 300 }}>
+            <span style={{ color: '#B07856' }}>Kathrin</span> <span style={{ color: '#1a1a1a', fontWeight: 500 }}>Sommer</span>
           </span>
           <span className="font-sans text-[10px] uppercase tracking-[0.2em]" style={{ color: '#737373' }}>
             Paarberatung & Coaching

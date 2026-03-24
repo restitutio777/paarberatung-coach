@@ -27,8 +27,8 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-h1, h2, h3, h4 { font-family: 'Libre Baskerville', serif; }
-.font-serif { font-family: 'Libre Baskerville', serif; }
+h1, h2, h3, h4 { font-family: 'Cormorant Garamond', serif; }
+.font-serif { font-family: 'Cormorant Garamond', serif; }
 .font-sans { font-family: 'Nunito Sans', sans-serif; }
 
 /* Editorial micro-label */
@@ -334,7 +334,7 @@ h1, h2, h3, h4 { font-family: 'Libre Baskerville', serif; }
 }
 
 .section-bridge .bridge-text {
-  font-family: 'Libre Baskerville', serif;
+  font-family: 'Cormorant Garamond', serif;
   font-size: 12px;
   font-style: italic;
   color: var(--color-accent);
@@ -361,7 +361,7 @@ h1, h2, h3, h4 { font-family: 'Libre Baskerville', serif; }
 }
 
 .overlap-quote-inner p {
-  font-family: 'Libre Baskerville', serif;
+  font-family: 'Cormorant Garamond', serif;
   font-size: 14px;
   font-style: italic;
   line-height: 1.7;
